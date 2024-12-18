@@ -1,0 +1,2 @@
+com\alden\amqp\RabbitMQConfig.class
+com\alden\amqp\RabbitMQMessageProducer.class

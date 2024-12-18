@@ -1,0 +1,4 @@
+com\alden\clients\notification\NotificationClient.class
+com\alden\clients\fraud\FraudCheckResponse.class
+com\alden\clients\notification\NotificationRequest.class
+com\alden\clients\fraud\FraudClient.class

@@ -1,0 +1,8 @@
+com\alden\notification\NotificationApplication.class
+com\alden\notification\NotificationRepository.class
+com\alden\notification\NotificationController.class
+com\alden\notification\NotificationConfig.class
+com\alden\notification\Notification$NotificationBuilder.class
+com\alden\notification\Notification.class
+com\alden\notification\NotificationService.class
+com\alden\notification\rabbitmq\NotificationConsumer.class

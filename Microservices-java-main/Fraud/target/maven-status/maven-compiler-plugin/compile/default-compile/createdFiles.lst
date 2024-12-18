@@ -1,0 +1,6 @@
+com\alden\fraud\FraudController.class
+com\alden\fraud\FraudCheckHistory.class
+com\alden\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\alden\fraud\FraudApplication.class
+com\alden\fraud\FraudCheckHistoryRepository.class
+com\alden\fraud\FraudCheckServices.class
